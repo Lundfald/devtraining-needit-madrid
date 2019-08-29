@@ -9,15 +9,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-27 09:22:41</sys_created_on>
         <sys_id>14b0eb4d4f6333009d05aa95d310c714</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>My Open NeedIt Requests item view</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_sg_item_view_14b0eb4d4f6333009d05aa95d310c714</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-27 09:22:41</sys_updated_on>
-        <ui_styles/>
+        <sys_updated_on>2019-08-29 08:25:29</sys_updated_on>
+        <ui_styles>52b561bd4f2333009d05aa95d310c73c,fbf525bd4f2333009d05aa95d310c77d</ui_styles>
     </sys_sg_item_view>
     <sys_translated_text action="delete_multiple" query="documentkey=14b0eb4d4f6333009d05aa95d310c714"/>
 </record_update>
